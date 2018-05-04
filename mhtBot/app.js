@@ -77,7 +77,7 @@ server.get(/.*/, restify.serveStatic({
 var config =
 	{
 		userName: 'mng17',//'mng17@mhtbotdb',
-		password: '33queenstNOW!',//'1PlaneFifth',
+		password: 'mhtestbotNOW!',//'1PlaneFifth',
 		server: 'mhtbotdb.database.windows.net',//'mhtbotdb.database.windows.net',
 		options:
 			{
